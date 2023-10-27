@@ -1,0 +1,11 @@
+input, button {
+    display: block;
+}
+
+input:disabled {
+    border: none;
+}
+
+button:disabled {
+    display: none;
+}
